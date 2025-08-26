@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+/* #tasklist:webkit-scrollbar{
+    display: none;
+}
+#tasklist {
+  overflow-y: auto;           
+  -ms-overflow-style: none;    
+  scrollbar-width: none;       
+} */

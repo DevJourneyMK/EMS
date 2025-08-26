@@ -1,0 +1,8 @@
+#tasklist:webkit-scrollbar{
+    display: none;
+}
+#tasklist {
+  overflow-y: auto;            /* or scroll */
+  -ms-overflow-style: none;    /* IE/old Edge */
+  scrollbar-width: none;       /* Firefox */
+}
